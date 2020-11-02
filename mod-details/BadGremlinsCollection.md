@@ -20,7 +20,7 @@ _None_
 _None_
 
 **Dummy Patches:**
-* JK's Dragonsreach.esp
+* Instead of creating a dummy patch, unhide JK's Dragonsreach.esp, clean masters on JKs Dragonsreach - BGCollectables Patch.esp, then re-hide. Other than forcing load order, JK's * Dragonsreach isn't needed as a master.  Just make sure to place JKs Dragonsreach - BGCollectables Patch.esp after LOTD Patches Merged.esp.
 
 **Load/Install Order Notes:**
 * JaxomofRuatha (LS2 version 2.4.0)
